@@ -7,4 +7,7 @@ The theme I have chosen for my data set is focused on the collection of pieces c
   
 ## Current Manifestations of Data
 ### Descriptive Data
+
+"Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? How does your selected theme display some of these challenges? Describe the current manifestations of data relating to your selected theme, discussing how it is presently curated (collected and gathered) and how it is presented, described, and analysed."
+
 Considering Vivaldi's music was released in the 17th century 
