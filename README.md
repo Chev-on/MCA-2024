@@ -1,3 +1,4 @@
+[Week 2](tasks/Week 2)
 # Music Curation and Analytics Portfolio - Vivaldi
 
 ## Introduction / Week 1
