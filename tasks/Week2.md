@@ -2,10 +2,6 @@
 
 
 <html>
-<head>
-  <title>Week 2: OMR</title>
-
-</head>
 <body>
   <h1>Week 2</h1>
   
