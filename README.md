@@ -1,4 +1,4 @@
-[<kbd> <br> Home <br> </kbd>](README.md)
+[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2.html)
 
 [Week 2](tasks/Week2.html)
 [Week 3](tasks/Week3.html)
