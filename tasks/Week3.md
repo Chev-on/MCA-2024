@@ -4,26 +4,8 @@
   Download my MusicXML file <a href="../data/Summer.musicxml">here!</a>
   Download my MEI file <a href="../data/Summer.mei">here!</a>
 
- <div id="app">Verovio is loading...</div>
-    <script type="module">
-        import 'https://www.verovio.org/javascript/app/verovio-app.js';
-       const options = {
-            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-            defaultZoom: 3, // 0-7, default is 4
-            enableResponsive: true, // default is true
-            enableDocument: true // default is true
-        }
-        // A MusicXML file
-    var file = 'myfile_week3.mei';
-        // A MEI file
-        //var file = 'https://www.verovio.org/editor/brahms.mei';
-        const app = new Verovio.App(document.getElementById("app"), options);
-        fetch(file)
-            .then(function(response) {
-                return response.text();
-            })
-            .then(function(text) {
-                app.loadData(text);
-            });
-    </script>
+
+# Verovio
+Click this link to see my piece in Verovio.
+<a href="chev-on.github.io/MCA-2024/verovio.html" target="_blank">Verovio!</a>
 
