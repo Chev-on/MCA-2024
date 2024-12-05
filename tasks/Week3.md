@@ -6,8 +6,8 @@
   <h1>Week 3</h1>
 
   <h2>Generating musicXML and MEI files</h2>
-  <p>Download my MusicXML file <a href="data/Summer.musicxml">here!</a>
-  Download my MEI file <a href="data/SummerMEI.mei">here!</a>
+  <p>Download my MusicXML file <a href="../data/Summer.musicxml">here!</a>
+  Download my MEI file <a href="../data/SummerMEI.mei">here!</a>
   
   </p>
   
