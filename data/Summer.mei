@@ -2,16 +2,10 @@
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
-   <meiHead xml:id="m1iz9ba3">
+ <meiHead xml:id="m1iz9ba3">
       <fileDesc xml:id="f1ao4ujx">
          <titleStmt xml:id="t978029">
-            <title>L’Estate</title>
-            <composer>Antonio Vivaldi</composer>
-            <arranger>Jordi Vilaprinyo</arranger>
             <title />
-            <respStmt>
-            <resp>Encoded by</resp>
-            <name>Chevon Ballantyne</name>
             <respStmt />
          </titleStmt>
          <pubStmt xml:id="pjq4tws">
