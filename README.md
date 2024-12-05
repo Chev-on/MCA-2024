@@ -1,4 +1,4 @@
-# CB Music Analytics Portfolio - Vivaldi
+# Music Curation and Analytics Portfolio - Vivaldi
 
 ## Introduction / Week 1
 ### Theme - Vivaldi and his Four Seasons
