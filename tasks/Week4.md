@@ -16,9 +16,10 @@ Below is a list of some values from my jSymbolic analysis I beleive would be use
 
 ## Music21
 **Piano Roll** 
-Below is the violin and treble clef piano parts shown as piano roll for the first 10 measures of my piece<p/>
-<img src="../data/part0_pianoroll.png"/> <img src="../data/part1_pianoroll.png"/> </div>
+ Below is the violin and treble clef piano parts shown as piano roll for the first 10 measures of my piece. This is interesting to compare as you can see the rhythmic differences and can also identify chords in the piano part. 
+<img src="../data/part0_pianoroll.png"/> <img src="../data/part1_pianoroll.png"/>
 
-
-
+ **Even more Piano Roll!**
+  This piano part looks different as it is the bass clef piano part and is also looking at measures 49-86. Here we can see when one movement ends and a new one begins!
+   <img src="../data/part2_pianoroll49_86.png"/> 
 
