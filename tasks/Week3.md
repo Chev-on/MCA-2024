@@ -49,7 +49,7 @@
         }
         
         // A MusicXML file
-        var file = 'data/Summer.musicXML';
+        var file = 'data/Summer.musicxml';
         // A MEI file
         //var file = 'data/SummerMEI.mei';
         
