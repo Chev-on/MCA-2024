@@ -1,12 +1,13 @@
 [<kbd> <br> Home <br> </kbd>](../README.md) [<kbd> <br> Week 2 <br> </kbd>](Week2.md) [<kbd> <br> Week 3 <br> </kbd>](Week3.md) [<kbd> <br> Week 4 <br> </kbd>](Week4.md)  [<kbd> <br> Week 5 <br> </kbd>](Week5.md) [<kbd> <br> Week 7 <br> </kbd>](Week7.md) [<kbd> <br> Week 8 <br> </kbd>](Week8.md) [<kbd> <br> Week 9 <br> </kbd>](Week9.md) [<kbd> <br> Week 10 <br> </kbd>](Week10.md) 
-<html>
 
-<body>
+# Week 5
+## Metadata in MEI
 
-  <h1>Week[2]</h1>
-  
-  <p>[This is a blank template for a web page.]</p>
+Using the Music Encoding Initiative Guidelines, this is a list of metadata I added to my MEI file.
 
-  
-</body>
-</html>
+title - Title of a bibliographic entity.
+arranger - A person or organization who transcribes a musical composition, usually for a different medium from that of the original; in an arrangement the musical substance remains essentially unchanged.
+composer - The name of the creator of the intellectual content of a musical work.
+contributor - Names of individuals, institutions, or organizations responsible for contributions to the intellectual content of a work, where the specialized elements for authors, editors, etc. do not suffice or do not apply.
+editor - The name of the individual(s), institution(s) or organization(s) acting in an editorial capacity.
+respStmt - Transcription of text that names one or more individuals, groups, or in rare cases, mechanical processes, responsible fo..
