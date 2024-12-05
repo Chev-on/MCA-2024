@@ -1,4 +1,4 @@
-[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2.md) [<kbd> <br> Week 3 <br> </kbd>](tasks/Week3.md)  [<kbd> <br> Week 4 <br> </kbd>](tasks/Week4.md) [<kbd> <br> Week 5 <br> </kbd>](tasks/Week5.md) [<kbd> <br> Week 7 <br> </kbd>](tasks/Week7.md) [<kbd> <br> Week 8 <br> </kbd>](tasks/Week8.md) [<kbd> <br> Week 9 <br> </kbd>](tasks/Week9.md) [<kbd> <br> Week 10 <br> </kbd>](tasks/Week10.md) 
+[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2.md) [<kbd> <br> Week 3 <br> </kbd>](https://chev-on.github.io/MCA-2024/verovio.html) [<kbd> <br> Week 4 <br> </kbd>](tasks/Week4.md) [<kbd> <br> Week 5 <br> </kbd>](tasks/Week5.md) [<kbd> <br> Week 7 <br> </kbd>](tasks/Week7.md) [<kbd> <br> Week 8 <br> </kbd>](tasks/Week8.md) [<kbd> <br> Week 9 <br> </kbd>](tasks/Week9.md) [<kbd> <br> Week 10 <br> </kbd>](tasks/Week10.md) 
 
 
 
