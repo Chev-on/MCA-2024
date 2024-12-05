@@ -5,7 +5,7 @@
 <body>
   <h1>Week 2</h1>
   
-<p>
+  <p>
     The first piece I will look at within the Four Seasons known as "Summer", specfically the first allegro non molto movement. <br/>
    
     I first downloaded the full score from IMSLP.org, however quickly realised that a full orchestral score will be difficult to analyse so decided to choose an arrangement consisting of Violin and Piano. <br/>
