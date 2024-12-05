@@ -20,6 +20,7 @@ Below is a list of some values from my jSymbolic analysis I beleive would be use
 <img src="../data/part0_pianoroll.png"/> <img src="../data/part1_pianoroll.png"/>
 
  **Even more Piano Roll!**
+ 
   This piano part looks different as it is the bass clef piano part and is also looking at measures 49-86. Here we can see when one movement ends and a new one begins!
    <img src="../data/part2_pianoroll49_86.png"/> 
 
