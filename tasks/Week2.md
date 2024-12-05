@@ -1,7 +1,7 @@
 [<kbd> <br> Home <br> </kbd>](../README.md) [<kbd> <br> Week 2 <br> </kbd>](Week2.md) [<kbd> <br> Week 3 <br> </kbd>](Week3.md) [<kbd> <br> Week 4 <br> </kbd>](Week4.md) [<kbd> <br> Week 5 <br> </kbd>](Week5.md) [<kbd> <br> Week 7 <br> </kbd>](Week7.md) [<kbd> <br> Week 8 <br> </kbd>](Week8.md) [<kbd> <br> Week 9 <br> </kbd>](Week9.md) [<kbd> <br> Week 10 <br> </kbd>](Week10.md) 
 
 
-#Week 2
+# Week 2
     The first piece I will look at within the Four Seasons known as "Summer", specfically the first allegro non molto movement. <br/>
     I first downloaded the full score from IMSLP.org, however quickly realised that a full orchestral score will be difficult to analyse so decided to choose an arrangement consisting of Violin and Piano. <br/>
     The full orchestral score is availble
