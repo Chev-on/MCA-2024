@@ -1,7 +1,6 @@
-[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2) [<kbd> <br> Week 3 <br> </kbd>](tasks/Week3.html) [<kbd> <br> Week 4 <br> </kbd>](tasks/Week4.html) [<kbd> <br> Week 5 <br> </kbd>](tasks/Week5.html) [<kbd> <br> Week 7 <br> </kbd>](tasks/Week7.html) [<kbd> <br> Week 8 <br> </kbd>](tasks/Week8.html) [<kbd> <br> Week 9 <br> </kbd>](tasks/Week9.html) [<kbd> <br> Week 10 <br> </kbd>](tasks/Week10.html)
+[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2.md) [<kbd> <br> Week 3 <br> </kbd>](tasks/Week3.html) [<kbd> <br> Week 4 <br> </kbd>](tasks/Week4.html) [<kbd> <br> Week 5 <br> </kbd>](tasks/Week5.html) [<kbd> <br> Week 7 <br> </kbd>](tasks/Week7.html) [<kbd> <br> Week 8 <br> </kbd>](tasks/Week8.html) [<kbd> <br> Week 9 <br> </kbd>](tasks/Week9.html) [<kbd> <br> Week 10 <br> </kbd>](tasks/Week10.html)
 
 <html>
-   <a href="README.md">Home</a>
 <head>
   <title>Week 2: OMR</title>
 
