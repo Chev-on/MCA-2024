@@ -3,19 +3,51 @@
 # Week 3 - Generating musicXML and MEI files
   Download my MusicXML file <a href="../data/Summer.musicxml">here!</a>
   Download my MEI file <a href="../data/Summer.mei">here!</a>
-  
-  <script type="module">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>My Piece in Verovio</title>
+    <style>
+    html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+    .box {
+        display: flex;
+        flex-flow: column;
+        height: 100%;
+    }
+    .box .header {
+       flex: 0 1 auto;
+    }
+    .box #app {
+        flex: 1 1 auto;
+    }
+    </style>
+</head>
+<body>
+    <div class="box">
+    <div class="header"><h1>Week 3</h1>
+        <p>[Insert your response to task 2 here.]</p></div>
+    <div id="app">Verovio is loading...</div>
+    <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
         const options = {
             defaultView: 'responsive', // default is 'responsive', alternative is 'document'
             defaultZoom: 3, // 0-7, default is 4
             enableResponsive: true, // default is true
             enableDocument: true // default is true
         }
+        
         // A MusicXML file
-        var file = 'data/summer.mei';
+        var file = 'data/Summer_verovio.mei';
         // A MEI file
-        var file = 'https://www.verovio.org/editor/brahms.mei';
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
         const app = new Verovio.App(document.getElementById("app"), options);
         fetch(file)
             .then(function(response) {
@@ -25,3 +57,6 @@
                 app.loadData(text);
             });
     </script>
+    </div>
+</body>
+</html>
