@@ -1,4 +1,4 @@
-[Week 2](tasks/Week 2)
+[Week 2](Week2.html)
 # Music Curation and Analytics Portfolio - Vivaldi
 
 ## Introduction / Week 1
