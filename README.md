@@ -1,3 +1,10 @@
+<ul class="button-group">
+    <li><a href="#" class="button primary pill">Home</a></li>
+    <li><a href="#" class="button pill">Week 1</a></li>
+    <li><a href="#" class="button pill">Week 2</a></li>
+    <li><a href="#" class="button pill">Week 3</a></li>
+</ul>
+
 [Week 2](tasks/Week2.html)
 [Week 3](tasks/Week3.html)
 # Music Curation and Analytics Portfolio - Vivaldi
