@@ -4,10 +4,8 @@
 ## Metadata in MEI
 
 Using the Music Encoding Initiative Guidelines, this is a list of metadata I added to my MEI file.
-
-title - Title of a bibliographic entity.
-arranger - A person or organization who transcribes a musical composition, usually for a different medium from that of the original; in an arrangement the musical substance remains essentially unchanged.
-composer - The name of the creator of the intellectual content of a musical work.
-contributor - Names of individuals, institutions, or organizations responsible for contributions to the intellectual content of a work, where the specialized elements for authors, editors, etc. do not suffice or do not apply.
-editor - The name of the individual(s), institution(s) or organization(s) acting in an editorial capacity.
-respStmt - Transcription of text that names one or more individuals, groups, or in rare cases, mechanical processes, responsible fo..
+ title - Title of a bibliographic entity.
+ arranger - A person or organization who transcribes a musical composition, usually for a different medium from that of the original; in an arrangement the musical substance remains essentially unchanged.
+ composer - The name of the creator of the intellectual content of a musical work.
+ contributor - Names of individuals, institutions, or organizations responsible for contributions to the intellectual content of a work, where the specialized elements for authors, editors, etc. do not suffice or do not apply.
+ responsibility statement – Transcription of text that names one or more individuals, groups, or in rare cases, mechanical processes, responsible for creation, realization, production, funding, or distribution of the intellectual or artistic content.
