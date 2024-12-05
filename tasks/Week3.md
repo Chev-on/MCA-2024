@@ -6,6 +6,5 @@
 
 
 # Verovio
-Click this link to see my piece in Verovio.
-<a href="../verovio.html" target="_blank">Verovio!</a>
+Click to see my piece in <a href="../verovio.html" target="_blank">Verovio!</a>
 
