@@ -1,4 +1,4 @@
-[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2.html)
+[<kbd> <br> Home <br> </kbd>](README.md) [<kbd> <br> Week 2 <br> </kbd>](tasks/Week2.html) [<kbd> <br> Week 3 <br> </kbd>](tasks/Week3.html)
 
 # Music Curation and Analytics Portfolio - Vivaldi
 
