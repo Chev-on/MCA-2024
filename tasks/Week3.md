@@ -15,7 +15,7 @@
         // A MusicXML file
         var file = 'data/summer.mei';
         // A MEI file
-        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        var file = 'https://www.verovio.org/editor/brahms.mei';
         const app = new Verovio.App(document.getElementById("app"), options);
         fetch(file)
             .then(function(response) {
