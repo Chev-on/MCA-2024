@@ -15,7 +15,7 @@ Below is a list of some values from my jSymbolic analysis I beleive would be use
 
 
 ## Music21
-** Piano Roll ** 
+**Piano Roll** 
 Below is the violin and treble clef piano parts shown as piano roll for the first 10 measures of my piece<p/>
 <img src="../data/part0_pianoroll.png"/> <img src="../data/part1_pianoroll.png"/> </div>
 
