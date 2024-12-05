@@ -51,7 +51,7 @@
         // A MusicXML file
         var file = 'data/Summer.musicxml';
         // A MEI file
-        //var file = 'data/SummerMEI.mei';
+        //var file = 'data/Summer.mei';
         
         const app = new Verovio.App(document.getElementById("app"), options);
         fetch(file)
