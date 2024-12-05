@@ -7,25 +7,21 @@
 
   <h2>Generating musicXML and MEI files</h2>
   <p>Download my MusicXML file <a href="../data/Summer.musicxml">here!</a>
-  Download my MEI file <a href="../data/SummerMEI.mei">here!</a>
+  Download my MEI file <a href="../data/Summer.mei">here!</a>
   
   </p>
-  
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
-        
         const options = {
             defaultView: 'responsive', // default is 'responsive', alternative is 'document'
             defaultZoom: 3, // 0-7, default is 4
             enableResponsive: true, // default is true
             enableDocument: true // default is true
         }
-        
         // A MusicXML file
         var file = 'data/summer.mei';
         // A MEI file
         //var file = 'https://www.verovio.org/editor/brahms.mei';
-        
         const app = new Verovio.App(document.getElementById("app"), options);
         fetch(file)
             .then(function(response) {
