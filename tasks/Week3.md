@@ -7,5 +7,5 @@
 
 # Verovio
 Click this link to see my piece in Verovio.
-<a href="../chev-on.github.io/MCA-2024/verovio.html" target="_blank">Verovio!</a>
+<a href="../verovio.html" target="_blank">Verovio!</a>
 
