@@ -16,7 +16,7 @@ Below is a list of some values from my jSymbolic analysis I beleive would be use
 
 ## Music21
 <div display:inline-block>
-<p> *Piano Roll* </p>
+**Piano Roll**
 <img src="../data/part0_pianoroll.png"/>
 </div>
 
