@@ -11,6 +11,6 @@
   
   </p>
   
-{% include_relative ../verovio_inline.html %}
+{% include_relative verovio_inline.html %}
 </body>
 </html>
