@@ -15,6 +15,10 @@
 
 ## Task 2
 ### Track 1 - Allegro
-<img id="myImg" src="../data/Allegro_wavefull.png" style="width:100%;max-width:700px class="center"">
- <img id="myImg" src="../data/Allegro_specfull.png" style="width:100%;max-width:700px class="center"">
+
+<img src="../data/Allegro_wavefull" alt="Allegro Waveform" width="300" />
+ <img src="../data/Allegro_specfull" alt="Allegro Spectogram" width="300" />
+
+ <img src="./data/Allegro_wavefull.png" style="width:100%;max-width:700px class="center"" />
+ <img src="../data/Allegro_specfull.png" style="width:100%;max-width:700px class="center"" />
  
