@@ -16,6 +16,7 @@
 ## Task 2
 ### Track 1 - Allegro
  
-<img src="../data/Allegro_wavefull" alt="Allegro Waveform" width="300" />
- <img src="../data/Allegro_specfull" alt="Allegro Spectogram" width="300" />
+<img src="../data/Allegro_wavefull.png" alt="Allegro Waveform" width="100%;max-width:700px" />
+ <img src="../data/Allegro_specfull.png" alt="Allegro Spectogram" width="300" />
 
+<img id="myImg" src="pngs/lamante_wf.png" alt="Waveform of Lamentate VII.Stridendo by Maki Namekawa" style="width:100%;max-width:700px class="center"">
