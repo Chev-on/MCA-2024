@@ -20,3 +20,16 @@
  <img src="../data/Allegro_specfull.png" alt="Allegro Spectogram" width="300" height="100" />
  
 ### Track 2 - Adagio molto
+
+ <img src="../data/Admolto_wave.png" alt="Allegro Spectogram" width="300" height="100" />
+  <img src="../data/Admolto_spec.png" alt="Allegro Spectogram" width="300" height="100" />
+
+
+### Track 3 - Winter
+
+ <img src="../data/Blaze_wave.png" alt="Allegro Spectogram" width="300" height="100" />
+  <img src="../data/Blaze_spec.png" alt="Allegro Spectogram" width="300" height="100" />
+
+## Description
+
+Adventages of time-frequency analysis mean that we can get a closer look at timbre, tempo, melody, dynamics. With Allegro it can be see that the sound is not very full, this makes sense as it only involves string instruments. In comparison Winter has a much fuller sound as it makes use of multiple instruments and electronic music. 
