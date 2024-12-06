@@ -3,3 +3,13 @@
 
 # Week 9 
 
+## Task 1
+
+### Allegro
+ <img src="../data/Allegro2.png"/> 
+
+### Adagio Molto
+ <img src="../data/Admolto2.png"/> 
+
+### Winter
+ <img src="../data/Winter.png"/> 
