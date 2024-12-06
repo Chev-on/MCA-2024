@@ -16,3 +16,4 @@
 ## Task 2
 
  
+<img src="../data/Allegro_wave.png"/> 
