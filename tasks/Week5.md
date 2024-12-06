@@ -16,4 +16,4 @@ Using the Music Encoding Initiative Guidelines, this is a list of metadata I add
  responsibility statement – Transcription of text that names one or more individuals, groups, or in rare cases, mechanical processes, responsible for creation, realization, production, funding, or distribution of the intellectual or artistic content.
 
 
- The updated mei file is availble 
+**The updated mei file is availble <a href="../data/Summer_meta.mei">here!</a>**
