@@ -14,6 +14,6 @@
 
 
 ## Task 2
- 
-<img src="../data/Allegro_wave.png"/> 
+### Track 1 - Allegro
+<img src="../data/Allegro_wave1.png"/> 
  <img src="../data/Allegro_spec.png"/>
