@@ -14,6 +14,6 @@
 
 
 ## Task 2
-
  
 <img src="../data/Allegro_wave.png"/> 
+ <img src="../data/Allegro_spec.png"/>
