@@ -7,9 +7,9 @@
  To improve the presentation of the metadata, I would include more info about the metadata itself. As a list it is hard to tell which is a title, who actually composed the piece, who arranged the piece ect.
  I would also improve the formatting so it is more legible. 
 
- If the verovio fails to load, it is also available 
+ If the verovio fails to load, it is also available <a href="chev-on.github.io/MCA-2024/metaRAW.html" target="_blank">here!</a>
 
- .github.io/MCA-2024/metaRAW.html.
+
 
 <html>
 <head>
