@@ -1,0 +1,74 @@
+# %%
+import matplotlib.pyplot as plt
+import numpy as np
+from numpy import genfromtxt
+
+# %%
+fn = "mv1.spec.csv"
+my_data = genfromtxt(fn, delimiter=',')
+
+# %%
+my_data
+
+# %%
+my_data.shape
+
+# %%
+fig, axes = plt.subplots(1, 1,sharey='row',figsize=(10, 6))
+axes.imshow(my_data.T, aspect='auto')
+plt.show()
+
+# %%
+feature_index = 1 # for mfcc this can be between 0-19
+my_data_single_features = my_data[:,feature_index]
+
+# %%
+my_data_single_features
+
+# %%
+fig, axes = plt.subplots(1, 1,sharey='row',figsize=(10, 6))
+axes.plot(my_data_single_features)
+plt.show()
+
+# %%
+my_data_single_features.shape
+
+# %%
+mm =np.mean(my_data_single_features)
+print(mm)
+
+# %%
+plt.hist(my_data_single_features, bins='auto')  
+plt.vlines(mm,0,500)
+plt.title("Histogram for feature number " + str(feature_index))
+plt.show()
+
+# %%
+myleft  = 0.125  # the left side of the subplots of the figure
+myright = 0.9    # the right side of the subplots of the figure
+mybottom = 0.1   # the bottom of the subplots of the figure
+mytop = 0.9      # the top of the subplots of the figure
+mywspace = 0.2   # the amount of width reserved for space between subplots,
+                 # expressed as a fraction of the average axis width
+myhspace = 0.2   # the amount of height reserved for space between subplots,
+                 # expressed as a fraction of the average axis height
+
+# %%
+fig, axes = plt.subplots(5, 4,sharey='row',figsize=(12, 16))
+for i in range(0,5): 
+    for j in range(0,4): 
+        feature_index = i*4+j # for mfccs, this can be between 0-19
+        my_data_single_features = my_data[:,feature_index]
+        mm =np.mean(my_data_single_features)
+        axes[i,j].vlines(mm,0,500)
+        axes[i,j].hist(my_data_single_features, bins='auto')  
+        axes[i,j].set_title(str(feature_index))
+        axes[i,j].yaxis.set_ticklabels([])  # let's not show the y axis
+                
+plt.subplots_adjust(myleft, mybottom, myright, mytop, mywspace, myhspace)
+plt.show()
+
+# %%
+fig.savefig('Amv1.spec.png')
+
+

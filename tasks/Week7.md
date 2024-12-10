@@ -2,7 +2,7 @@
 
 # Week 7
 
- To this week's MEI I have added genre and info for the creative commons licence. 
+ To this week's MEI I have added genre and information for the creative commons licence. 
 
  To improve the presentation of the metadata, I would include more info about the metadata itself. As a list it is hard to tell which is a title, who actually composed the piece, who arranged the piece ect.
  I would also improve the formatting so it is more legible. 
