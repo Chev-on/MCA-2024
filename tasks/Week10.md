@@ -2,29 +2,29 @@
 
 
 # Week 10
-Task 1: Similarity in Python
-Open the Jupyter notebook 'week10similarity_20191125a.ipynb'
-Work through the notebook
-Discuss the group's findings with the tutor
-Task 2: Transcription in MuseScore and SonicVisualizer
-Open your group's composition from Weeks 2-5 in MuseScore
-Export it as a WAV file
-Open the new WAV file in SonicVisualizer
-Add a new pane
-Choose Transform -> By category -> Notes -> Polyphonic transcription
-Inspect and listen to the transcription
-Export the annotation pane as MIDI (File -> Export Annotation Layer... -> MIDI file)
-Load the MIDI file into MuseScore
-Compare this to the original composition, discussing how successful the transcription has been and identifying the information that has been lost.
+
+## Task 1
+
+In this week's tasks I have used the same three tracks from last week. Looking at the group lab work I can see that it is fairly easy to notice differences in genres, especially in the 2D graph. So I decided to use tracks from the same piece of music as a way to test the limits of the similarity matrix. It will be interesting to see how these present in similarity.
+
+ <table class="content-table">
+        <thead>
+          <tr>
+            <th>Similarity Matrix</th>
+            <th>2D Plot</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><img src="../week10/similar_matrix.png" style="width:100%;"></td>
+            <td><img src="../week10/2DPlot.png" style="width:100%;"></td>
+          </tr>
+        </tbody>
+      </table><br>
 
 
-Task 1: Similarity
-Open the same Python notebook from Tuesday's group activity
-Replace the country tracks with 3 tracks that relate to your portfolio's theme (or the same tracks you used in last week's individual lab)
-Generate a similarity matrix. This involves:
-Extracting the Chroma features in SonicVisualizer
-Exporting the features as a CSV
-Save the code and notebook and save the visualization of the similarity matrix as an image for your portfolio
+
+## Task 2
 Task 2: Transcription
 Open your piece of music from Week 2 in MuseScore.
 Export it as a WAV file and as an image file
