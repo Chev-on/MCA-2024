@@ -28,7 +28,7 @@
         const app = new Verovio.App(document.getElementById("app"), {});
 
     // Load a file (MEI or MusicXML)
-    fetch("data/Summer_wk7.mei")
+  fetch("data/Summer_wk7.mei")
         .then(function(response) {
             return response.text();
         })

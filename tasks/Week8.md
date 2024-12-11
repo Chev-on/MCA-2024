@@ -16,19 +16,19 @@
 ## Task 2
 ### Track 1 - Allegro
  
-<img src="../data/Allegro_wavefull.png" alt="Allegro Waveform" width="300" height="100" />
- <img src="../data/Allegro_specfull.png" alt="Allegro Spectogram" width="300" height="100" />
+<img src="../week8/Allegro_wavefull.png" alt="Allegro Waveform" width="300" height="100" />
+ <img src="../week8/Allegro_specfull.png" alt="Allegro Spectogram" width="300" height="100" />
  
 ### Track 2 - Adagio molto
 
- <img src="../data/Admolto_wave.png" alt="Allegro Spectogram" width="300" height="100" />
-  <img src="../data/Admolto_spec.png" alt="Allegro Spectogram" width="300" height="100" />
+ <img src="../week8/Admolto_wave.png" alt="Allegro Spectogram" width="300" height="100" />
+  <img src="../week8/Admolto_spec.png" alt="Allegro Spectogram" width="300" height="100" />
 
 
 ### Track 3 - Winter
 
- <img src="../data/Blaze_wave.png" alt="Allegro Spectogram" width="300" height="100" />
-  <img src="../data/Blaze_spec.png" alt="Allegro Spectogram" width="300" height="100" />
+ <img src="../week8/Blaze_wave.png" alt="Allegro Spectogram" width="300" height="100" />
+  <img src="../week8/Blaze_spec.png" alt="Allegro Spectogram" width="300" height="100" />
 
 ## Description
 

@@ -9,9 +9,20 @@ The full orchestral score is availble <a href="https://s9.imslp.org/files/imglnk
 When loading the PDF into musescore one of thie first things I noticed is that information such as the title, author, arranger, tempo were all missing. This information is quite essential, especially when using copyrighted arrangements of pieces. 
 Musescore did insert a 'ghost' tempo, but it was incorrect to the original. It also misread in pedal signals at various places which is unusal as the original didn't have any. Directions were also missing such as the 'allegro non molto' and 'Languideza per il caldo'.
     
+
+## Original PDF
 <object class="pdf"
             data=
 "https://ks15.imslp.org/files/imglnks/usimg/e/ee/IMSLP811967-PMLP126433-L'ESTATE.pdf"
+            width="800"
+            height="500">
+</object>
+
+## Musescore PDF
+
+<object class="pdf"
+            data=
+"../docs/Summer_mscz.pdf"
             width="800"
             height="500">
 </object>
