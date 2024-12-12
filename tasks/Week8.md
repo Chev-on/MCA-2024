@@ -15,7 +15,9 @@
 
 ## Task 2
 ### Track 1 - Allegro
- 
+<a href="../week8/Allegro_wavefull.png"> <img src="../week8/Allegro_zoom.png"> </a>
+
+
 <img src="../week8/Allegro_wavefull.png" alt="Allegro Waveform" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
  <img src="../week8/Allegro_specfull.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
 
