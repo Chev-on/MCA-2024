@@ -14,26 +14,20 @@
 
 
 ## Task 2
+Below are small snippets of the full files, click to see the full images!
 ### Track 1 - Allegro
 <a href="../week8/Allegro_wavefull.png"> <img src="../week8/Allegro_zoom.png"> </a>
+<a href="../week8/Allegro_specfull.png"> <img src="../week8/Allegro_speczoom.png"> </a>
 
-
-<img src="../week8/Allegro_wavefull.png" alt="Allegro Waveform" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
- <img src="../week8/Allegro_specfull.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
-
- ![Allegro Waveform](../week8/Allegro_wavefull.png) <br>
- ![Allegro Spec](../week8/Allegro_specfull.png)
 
 ### Track 2 - Adagio molto
-
- <img src="../week8/Admolto_wave.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
-  <img src="../week8/Admolto_spec.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
+<a href="../week8/Admolto_wave.png"> <img src="../week8/admolto_wavezoom.png.png"> </a>
+<a href="../week8/Admolto_spec.png"> <img src="../week8/admolto_speczoom.png"> </a>
 
 
 ### Track 3 - Winter
-
- <img src="../week8/Blaze_wave.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
-  <img src="../week8/Blaze_spec.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
+<a href="../week8/Blaze_wave.png"> <img src="../week8/blaze_wavezoom.png"> </a>
+<a href="../week8/Blaze_spec.png"> <img src="../week8/blaze_speczoom.png"> </a>
 
 
 ## Description
