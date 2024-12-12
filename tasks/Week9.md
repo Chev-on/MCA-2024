@@ -21,9 +21,8 @@ For this task I go back to the highlight of my theme, Vivaldi's Violin concerto 
 
 ## Task 2
 ### Spectogram Histograms
-
-    <table class="content-table">
-        <thead>
+<table class="content-table">
+    <thead>
           <tr>
             <th>Movement 1 - Allegro Non Molto</th>
             <th>Movement 2 - Adagio e Piano</th>
@@ -41,8 +40,7 @@ For this task I go back to the highlight of my theme, Vivaldi's Violin concerto 
       
             <h3>MFCC Histograms</h3>
       		<br>
-      
-         <table class="content-table">
+<table class="content-table">
         <thead>
           <tr>
             <th>Movement 1 - Allegro Non Molto</th>
@@ -59,10 +57,10 @@ For this task I go back to the highlight of my theme, Vivaldi's Violin concerto 
         </tbody>
       </table><br>
       
-            <h3>Chromagram Histograms</h3>
+<h3>Chromagram Histograms</h3>
       		<br>
       
-         <table class="content-table">
+<table class="content-table">
         <thead>
           <tr>
            <th>Movement 1 - Allegro Non Molto</th>
@@ -78,12 +76,10 @@ For this task I go back to the highlight of my theme, Vivaldi's Violin concerto 
           </tr>
         </tbody>
       </table><br>
-      
-      <h3>Comparing Chromagrams</h3><br>
+<h3>Comparing Chromagrams</h3>
+We can see that Movement 3 has a greater volume across the histogram, indicating a richer and fuller sound, contrasting Movement 2 which has a much less fuller sound and less range of notes used. Movement 1 is a mid-point between these. When observing the histograms this becomes clear. 
 
-      We can see that Movement 3 has a greater volume across the histogram, indicating a richer and fuller sound, contrasting Movment 2 which has a much less fuller sound and less range of notees used. Movement 1 is a mid point between these. When observing the histograms this becomes clear. 
-
-      Movement 2 has a much less diverse range of notes compared to movements 1 and 3. This could suggest the piece is repetitive and consistent. 
+Movement 2 has a much less diverse range of notes compared to movements 1 and 3. This could suggest the piece is repetitive and consistent. 
 Comparing this with Movement 3, we could assume that Movement 3 has more melodic variation and changes, and again Movement 2 being somewhere between this.
 
-      Each of the three movements is skewed to the left, this can indicate that they are all in the same or similar key.
+Each of the three movements is skewed to the left, this can indicate that they are all in the same or similar key.
