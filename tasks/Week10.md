@@ -22,14 +22,17 @@ In this week's tasks I have used the same three tracks from last week. Looking a
         </tbody>
       </table><br>
 
-
-
 ## Task 2
-Task 2: Transcription
-Open your piece of music from Week 2 in MuseScore.
-Export it as a WAV file and as an image file
-Open the WAV file in SonicVisualizer
-Transcribe the file using the same process as the Group activity on Tuesday
-Open the MIDI file in MuseScore
-Export it as an image
-In your portfolio, display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
+For this task I have inserted the first three pages of both transcriptions.
+### Musescore Transcription
+
+![Musescore pg1](../week10/summer_mscz_images-1.png) ![Musescore pg2](../week10/summer_mscz_images-2.png)![Musescore pg3](../week10/summer_mscz_images-3.png)
+
+### Midi Transcription
+
+![Midi pg1](../week10/wk10midi-1.png) ![Midi pg2](../week10/wk10midi-2.png) ![Midi pg3](../week10/wk10midi-3.png)
+
+## Discussion
+It can clearly be seen the differences in both transcriptions. After the sonic visualiser transcription, one of the first things I noticed that the violin line has been merged with the piano line, making it harder to read the music. 
+Some of the rhythms are incorrect and the way the are written is again harder to read. Some notes are wrong or missing. 
+Another problem is that the key of the piece has been transcribed incorrectly. 

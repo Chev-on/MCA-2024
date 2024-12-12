@@ -3,33 +3,25 @@
 
 # Week 9 
 
-<html>
-<h2>Task 1 <h2><br>
-
+## Task 1 
 For this task I go back to the highlight of my theme, Vivaldi's Violin concerto known as 'Summer'. Summer has 3 movements, so I have analysed each movement individually to compare. <br>
 
-## Movement 1 - Allegro Non Molto
+### Movement 1 - Allegro Non Molto
 
-<img src="../week9/mv1/mv1.png"> </a>
-      		
-      		<img src="../week9/mv1/mv1.png" alt="Allegro Non Molto" style="display: block;margin-left:auto;margin-right:auto;width:900px;height:650px;"><br>
-      				
-      		<h3 class="h3w8">Movement 2 - Adagio e Piano</h3><br>
-      		
-      		<img src="../week9/mv2/mv2.png" alt="Adagio" style="display: block;margin-left:auto;margin-right:auto;width:900x;height:650px;"><br>
-      		
-      		<h3 class="h3w8">Movement 3 - Presto</h3><br>
-      		
-      		<img src="../week9/mv3/mv3.png" alt="Presto" style="display: block;margin-left:auto;margin-right:auto;width:900x;height:650px;"><br><hr>
+<img src="../week9/mv1/mv1.png"> 
 
-            <br>
+### Movement 2 - Adagio e Piano
 
-            <h2> Task 2 <h2><br>
-      		
-            <h3>Spectogram Histograms</h3>
-      		<br>
-      
-      		
+<img src="../week9/mv2/mv2.png"> 
+
+### Movememt 3 - Presto
+
+<img src="../week9/mv3/mv3.png"> 
+
+
+## Task 2
+### Spectogram Histograms
+
     <table class="content-table">
         <thead>
           <tr>
@@ -87,13 +79,11 @@ For this task I go back to the highlight of my theme, Vivaldi's Violin concerto 
         </tbody>
       </table><br>
       
-      <h3>Discussion</h3><br>
-      
-      <p>
-      
-      </p>
-      		
-		</section>
-	</body>
-	
-</html>
+      <h3>Comparing Chromagrams</h3><br>
+
+      We can see that Movement 3 has a greater volume across the histogram, indicating a richer and fuller sound, contrasting Movment 2 which has a much less fuller sound and less range of notees used. Movement 1 is a mid point between these. When observing the histograms this becomes clear. 
+
+      Movement 2 has a much less diverse range of notes compared to movements 1 and 3. This could suggest the piece is repetitive and consistent. 
+Comparing this with Movement 3, we could assume that Movement 3 has more melodic variation and changes, and again Movement 2 being somewhere between this.
+
+      Each of the three movements is skewed to the left, this can indicate that they are all in the same or similar key.

@@ -34,6 +34,6 @@ Below are small snippets of the full files, click to see the full images!
 
 Using time-frequency analysis, like a spectrogram, we can see how different sounds emerge and fade, and we can get a closer look at timbre, tempo, melody, dynamics.
 
-For example, Allegro, which features only stringed instruments, time-frequency analysis shows the sound is less rich and focuses on a specific harmony. In comparison, this rendition of Winter features a variety of instruments and electronic sounds. This shows a much fuller sound and spans across a wider spectrum of frequencies. With this, we know it is possible to catagorise music in some way based on the output of some time-frequncy analyses.
+For example, with Allegro, a slow, quiet, string focused piece, time-frequency analysis shows the sound is less rich and focuses on a specific harmony. In comparison, this rendition of Winter features a variety of instruments and electronic sounds. This shows a much fuller sound and spans across a wider spectrum of frequencies. With this, we know it is possible to catagorise music in some way based on the output of some time-frequncy analyses.
 
 
