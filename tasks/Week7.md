@@ -7,11 +7,9 @@
  To improve the presentation of the metadata, I would include more info about the metadata itself. As a list it is hard to tell which is a title, who actually composed the piece, who arranged the piece ect.
  I would also improve the formatting so it is more legible. 
 
- If the verovio fails to load, it is also available [Here!](https://chev-on.github.io/MCA-2024/metaRAW.html){:target="_blank"}
+ If the verovio fails to load, it is also available [Here!](https://chev-on.github.io/MCA-2024/metaRAW.html){:target="_blank"} <br>
 
 
-
-<html>
 <head>
   <title>My Piece</title>
   <meta charset="utf-8">
@@ -71,4 +69,3 @@
   </script>
 </body>
 <footer><p>Score rendering provided by <a href="http://www.verovio.org">Verovio</a>. Metadata rendered by <a href="https://github.com/TEIC/CETEIcean/"> CETEIcean</a>.</p></footer>
-</html>

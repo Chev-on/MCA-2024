@@ -3,8 +3,8 @@
 # Week 3 
 ## Generating musicXML and MEI files
 
- This week I converted my musescore file into musicXML and MEI files;
-  Download my MusicXML file <a href="../week3/Summer.musicxml">here!</a>
+ This week I converted my musescore file into musicXML and MEI files; <br>
+  Download my MusicXML file <a href="../week3/Summer.musicxml">here!</a> <br>
   Download my MEI file <a href="../week3/Summer.mei">here!</a>
 
 
@@ -12,7 +12,7 @@
 
 If below fails to load click to see my piece in <a href="../week3/verovio.html" target="_blank">Verovio!</a>
 
-<html>
+
 <head>
     <meta charset="utf-8">
     <title>My Piece in Verovio</title>
@@ -37,7 +37,7 @@ If below fails to load click to see my piece in <a href="../week3/verovio.html" 
 </head>
 <body>
     <div class="box">
-    <div class="header"><h1>Verovio: Violin Concerto in G minor, 'Summer' - Antonio Vivaldi</h1>
+    <div class="header"><h1>Violin Concerto in G minor, 'Summer' - Antonio Vivaldi</h1>
         <p> </p></div>
     <div id="app">Verovio is loading...</div>
     <script type="module">
@@ -63,5 +63,4 @@ If below fails to load click to see my piece in <a href="../week3/verovio.html" 
     </script>
     </div>
 </body>
-</html>
 

@@ -16,7 +16,7 @@
 ## Task 2
 ### Track 1 - Allegro
  
-<img src="../week8/Allegro_wavefull.png" alt="Allegro Waveform" width="300" height="100" />
+<img src="../week8/Allegro_wavefull.png" alt="Allegro Waveform" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
  <img src="../week8/Allegro_specfull.png" alt="Allegro Spectogram" width="300" height="100" />
  
 ### Track 2 - Adagio molto
