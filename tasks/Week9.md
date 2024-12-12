@@ -6,12 +6,11 @@
 <html>
 <h2>Task 1 <h2><br>
 
-	
-		<p>For this task I go back to the highlight of my theme, Vivaldi's Violin concerto known as 'Summer'. Summer has 3 movements, so I have analysed each movement individually to compare. </p><br>
-		
-        <br>
-      		
-      		<h3 class="h3w8">Movement 1 - Allegro Non Molto</h3><br>
+For this task I go back to the highlight of my theme, Vivaldi's Violin concerto known as 'Summer'. Summer has 3 movements, so I have analysed each movement individually to compare. <br>
+
+## Movement 1 - Allegro Non Molto
+
+<img src="../week9/mv1/mv1.png"> </a>
       		
       		<img src="../week9/mv1/mv1.png" alt="Allegro Non Molto" style="display: block;margin-left:auto;margin-right:auto;width:900px;height:650px;"><br>
       				
