@@ -21,7 +21,7 @@ Below are small snippets of the full files, click to see the full images!
 
 
 ### Track 2 - Adagio molto
-<a href="../week8/Admolto_wave.png"> <img src="../week8/admolto_wavezoom.png.png"> </a>
+<a href="../week8/Admolto_wave.png"> <img src="../week8/admolto_wavezoom.png"> </a>
 <a href="../week8/Admolto_spec.png"> <img src="../week8/admolto_speczoom.png"> </a>
 
 
