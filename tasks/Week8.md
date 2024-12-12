@@ -19,9 +19,9 @@
 <img src="../week8/Allegro_wavefull.png" alt="Allegro Waveform" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
  <img src="../week8/Allegro_specfull.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
 
- [Allegro Waveform](../week8/Allegro_wavefull.png) <br>
- [Allegro Spec](../week8/Allegro_specfull.png)
- 
+ ![Allegro Waveform](../week8/Allegro_wavefull.png) <br>
+ ![Allegro Spec](../week8/Allegro_specfull.png)
+
 ### Track 2 - Adagio molto
 
  <img src="../week8/Admolto_wave.png" alt="Allegro Spectogram" style="display: block;margin-left:auto;margin-right:auto;width:500x;height:300px;"><br>
