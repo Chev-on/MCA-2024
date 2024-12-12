@@ -42,19 +42,16 @@ If below fails to load click to see my piece in <a href="../week3/verovio.html" 
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
-        
         const options = {
             defaultView: 'responsive', // default is 'responsive', alternative is 'document'
             defaultZoom: 3, // 0-7, default is 4
             enableResponsive: true, // default is true
             enableDocument: true // default is true
         }
-        
         // A MusicXML file
         var file = '../week3/Summer_verovio.mei';
         // A MEI file
         //var file = 'https://www.verovio.org/editor/brahms.mei';
-        
         const app = new Verovio.App(document.getElementById("app"), options);
         fetch(file)
             .then(function(response) {

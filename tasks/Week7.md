@@ -15,9 +15,9 @@
 <head>
   <title>My Piece</title>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="css/myMeta.css" media="all" />
-  <link rel="stylesheet" href="css/style.css" media="all" />
-  <script src="js/CETEI.js"></script>
+  <link rel="stylesheet" href="../css/myMeta.css" media="all" />
+  <link rel="stylesheet" href="../css/style.css" media="all" />
+  <script src="../js/CETEI.js"></script>
 </head>
 <body>
   <div id="MEImeta"></div>
@@ -26,8 +26,7 @@
   <script type="module">
       import 'https://www.verovio.org/javascript/app/verovio-app.js';
         const app = new Verovio.App(document.getElementById("app"), {});
-
-    // Load a file (MEI or MusicXML)
+        //Load a file (MEI or MusicXML)
   fetch("data/Summer_wk7.mei")
         .then(function(response) {
             return response.text();
